@@ -1,4 +1,4 @@
-###  iae, seja bem vindo(a) ao meu perfil :sparkles: 
+###  Iae, seja bem vindo(a) ao meu perfil :sparkles: 
 
  Meu nome é Victor Hugo
  Estou estudando no [Alura](https://www.alura.com.br)
