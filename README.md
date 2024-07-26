@@ -1,9 +1,9 @@
 ###  iae, seja bem vindo(a) ao meu perfil :sparkles: 
 
  Meu nome é Victor Hugo
- -Estou estudando no [Alura](https://www.alura.com.br)
+ Estou estudando no [Alura](https://www.alura.com.br)
  
- -Cursando ensino médio
+ Cursando ensino médio
 
  ### Pode entrar em contato comigo no meu e-mail 📬
 
